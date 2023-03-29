@@ -1,7 +1,7 @@
 # CB1
 Dog Breed Classification using Deep Learning<br/>
 
-###Team Names:
+### Team Names:
 1. T.S.V.Dheeraj
 2. K.V.Vinay Kumar
 3. K.Hareesh
